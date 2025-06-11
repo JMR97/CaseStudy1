@@ -1,5 +1,29 @@
-# 🏏 Cricket Match Outcome Predictor
+#  Cricket Match Outcome Predictor
 
+---
+
+## 🧠 Overview
+This project aims to build and evaluate a classification model. Key goals include:
+
+Generate the datasets
+
+Load and preprocess datasets
+
+Split data for training and testing
+
+Train a classifier (e.g., random forest, decision tree)
+
+Evaluate performance using metrics and visual tools
+
+Generate a confusion matrix for true vs predicted labels
+
+Summarize findings in results.pdf
+
+---
+
+
+
+## 🏏 Introduction
 This machine learning project predicts the outcome of cricket matches based on match conditions and team combinations. It works with any mix of players regardless of nationality and uses multiple classifiers for robust evaluation.
 
 ---
@@ -30,22 +54,6 @@ The dataset is saved as: cricket_matches_1000.csv   (Upload in the Github)
 
 ---
 
-## 🧠 Overview
-This project aims to build and evaluate a classification model. Key goals include:
-
-Load and preprocess datasets
-
-Split data for training and testing
-
-Train a classifier (e.g., logistic regression, decision tree)
-
-Evaluate performance using metrics and visual tools
-
-Generate a confusion matrix for true vs predicted labels
-
-Summarize findings in results.pdf
-
----
 
 ## 🛠️ Setup & Requirements
 Install dependencies (example):
