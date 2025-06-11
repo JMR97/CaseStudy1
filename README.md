@@ -30,7 +30,7 @@ The dataset is saved as: cricket_matches_1000.csv   (Upload in the Github)
 
 ---
 
-##🧠 Overview
+## 🧠 Overview
 This project aims to build and evaluate a classification model. Key goals include:
 
 Load and preprocess datasets
@@ -47,7 +47,7 @@ Summarize findings in results.pdf
 
 ---
 
-##🛠️ Setup & Requirements
+## 🛠️ Setup & Requirements
 Install dependencies (example):
 
 bash
@@ -58,7 +58,7 @@ Feel free to use Conda or Pipenv as preferred.
 
 ---
 
-##🚦 How to Run
+## 🚦 How to Run
 Preprocess data
 python Codes/data_preprocessing.py --input DataSet/raw_data.csv --output DataSet/processed_data.csv
 
@@ -73,7 +73,7 @@ python Codes/plot_confusion.py --y_true reports/y_true.npy --y_pred reports/y_pr
 
 ---
 
-##🧪 Results
+## 🧪 Results
 Check results.pdf for a comprehensive report, including:
 
 Model performance metrics (accuracy, precision, recall, F1-score)
