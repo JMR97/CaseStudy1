@@ -9,15 +9,15 @@ This project aims to build and evaluate a classification model. Key goals includ
 
 - Load and preprocess datasets
 
-Split data for training and testing
+- Split data for training and testing
 
-Train a classifier (e.g., random forest, decision tree)
+- Train a classifier (e.g., random forest, decision tree)
 
-Evaluate performance using metrics and visual tools
+- Evaluate performance using metrics and visual tools
 
-Generate a confusion matrix for true vs predicted labels
+- Generate a confusion matrix for true vs predicted labels
 
-Summarize findings in results.pdf
+- Summarize findings in results.pdf
 
 ---
 
