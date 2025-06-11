@@ -25,4 +25,6 @@ We generated a **synthetic dataset** of 1000 matches, each including:
 - `Date`, `Time`
 - `Outcome`: one of `Team_A_Wins`, `Team_B_Wins`, or `Draw`
 
-The dataset is saved as:
+The dataset is saved as: cricket_matches_1000.csv   (Upload in the Github)
+
+
