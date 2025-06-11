@@ -49,23 +49,17 @@ Summarize findings in results.pdf
 
 ## 🛠️ Setup & Requirements
 Install dependencies (example):
+
 `pip install numpy pandas scikit-learn matplotlib seaborn`
+
 Feel free to use Conda or Pipenv as preferred.
 
 ---
 
 ## 🚦 How to Run
-Preprocess data
-python Codes/data_preprocessing.py --input DataSet/raw_data.csv --output DataSet/processed_data.csv
 
-Train model
-python Codes/train_model.py --data DataSet/processed_data.csv --model_output model.pkl
-
-Evaluate
-python Codes/evaluate.py --model model.pkl --data DataSet/processed_data.csv --report_dir reports/
-
-Plot confusion matrix
-python Codes/plot_confusion.py --y_true reports/y_true.npy --y_pred reports/y_pred.npy --output Confusion\ Matrix/confusion_matrix.png
+Select a folder where the Genereted Dataset will be saved. and then add the path in the `dataset generation.py` and run it.
+Then make the Dataset I used. After that `classification.py` for running the models where Test-Train and plotting section is included.
 
 ---
 
