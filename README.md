@@ -5,9 +5,9 @@
 ## 🧠 Overview
 This project aims to build and evaluate a classification model. Key goals include:
 
-Generate the datasets
+- Generate the datasets
 
-Load and preprocess datasets
+- Load and preprocess datasets
 
 Split data for training and testing
 
