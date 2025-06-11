@@ -49,11 +49,7 @@ Summarize findings in results.pdf
 
 ## 🛠️ Setup & Requirements
 Install dependencies (example):
-
-bash
-Copy
-Edit
-pip install numpy pandas scikit-learn matplotlib seaborn
+`pip install numpy pandas scikit-learn matplotlib seaborn`
 Feel free to use Conda or Pipenv as preferred.
 
 ---
