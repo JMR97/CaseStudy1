@@ -36,7 +36,7 @@ Develop a model that predicts the **match outcome** (Team A win, Team B win, or 
 - Venue
 - Weather conditions
 - Toss winner and decision
-- Team compositions (Team A and Team B)
+- Team compositions (`Team A` and `Team B`)
 
 ---
 
