@@ -56,7 +56,7 @@ The dataset is saved as: cricket_matches_1000.csv   (Upload in the Github)
 
 
 ## 🛠️ Setup & Requirements
-Install dependencies (example):
+Install dependencies :
 
 `pip install numpy pandas scikit-learn matplotlib seaborn`
 
@@ -74,11 +74,11 @@ Then make the Dataset I used. After that `classification.py` for running the mod
 ## 🧪 Results
 Check results.pdf for a comprehensive report, including:
 
-Model performance metrics (accuracy, precision, recall, F1-score)
+- Model performance metrics (accuracy, precision, recall, F1-score)
 
-Confusion matrix plot
+- Confusion matrix plot
 
-Observations and interpretation
+- Observations and interpretation
 
 
 
